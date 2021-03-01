@@ -19,6 +19,6 @@ s.watchos.deployment_target = "3.0"
 
 s.source_files = "HCKalmanFilter/*"
 
-s.dependency 'Surge', '~> 2.0.0'
+s.dependency 'Surge', '~> 2.3.2'
 
 end
